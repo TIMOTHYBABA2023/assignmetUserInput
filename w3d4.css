@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+    padding: 0px;
+    margin: 0px;
+}
+
+.input {
+    display: flex;
+    flex-flow:column wrap;
+    background-color: rgb(238, 96, 174);
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 4px 8px;
+    color: white;
+}
+.fit {
+    padding: 20px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(219, 161, 84);
+}
+#message {
+    color: aqua;
+    text-transform: uppercase;
+}
